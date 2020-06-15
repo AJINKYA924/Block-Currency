@@ -1,5 +1,5 @@
 # Block-Currency
-This project is Submission is for Coder's Week which is simple Blockchain Based web UI crated with react ,trufflesuit and Metamask
+This project is Submission is for Coder's Week which is simple Blockchain Based web UI crated with react ,trufflesuite and Metamask
 
 Before we get started make sure you have following things installed on your system:
 
